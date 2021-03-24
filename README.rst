@@ -64,6 +64,8 @@ runtimes such as `onnxruntime
 <https://github.com/microsoft/onnxruntime>`_
 to *scikit-learn*.
 
+ONNX benchmark result, result plotting see here: <http://www.xavierdupre.fr/app/_benchmarks/helpsphinx/onnx/onnxruntime_datasets_num_reg_knn.html#raw-results>
+
 * `GitHub/pymlbenchmark <https://github.com/sdpython/pymlbenchmark/>`_
 * `documentation <http://www.xavierdupre.fr/app/pymlbenchmark/helpsphinx/index.html>`_
 * `Blog <http://www.xavierdupre.fr/app/pymlbenchmark/helpsphinx/blog/main_0000.html#ap-main-0>`_
